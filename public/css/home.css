@@ -1,0 +1,28 @@
+
+.add-content{
+  margin-top: 25px;
+}
+
+.success-msg{
+  margin-top: 20px;
+}
+
+.records{
+  margin-top: 20px;
+}
+.records ul{
+  width: 50px;
+}
+.records ul li button{
+  border: none;
+  background-color: inherit;
+}
+.records ul li a{
+  color: #212529;
+}
+.edit-li:hover{
+  color: #17a2b8;
+}
+.del-li:hover{
+  color: #f44336;
+}
